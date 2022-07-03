@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reformatika-2021/static/css/main.ab9ae972.css",
+    "main.js": "/reformatika-2021/static/js/main.9ee82a63.js",
+    "static/js/787.c78e2672.chunk.js": "/reformatika-2021/static/js/787.c78e2672.chunk.js",
+    "static/media/logo.svg": "/reformatika-2021/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reformatika-2021/index.html",
+    "main.ab9ae972.css.map": "/reformatika-2021/static/css/main.ab9ae972.css.map",
+    "main.9ee82a63.js.map": "/reformatika-2021/static/js/main.9ee82a63.js.map",
+    "787.c78e2672.chunk.js.map": "/reformatika-2021/static/js/787.c78e2672.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab9ae972.css",
+    "static/js/main.9ee82a63.js"
+  ]
+}
