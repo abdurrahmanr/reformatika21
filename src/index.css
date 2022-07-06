@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700;900&display=swap');
+
+@layer base {
+  body {
+    background-color: black;
+    @apply font-[Poppins]
+  }
+
+  h1 {
+    @apply text-3xl md:text-4xl font-bold
+  }
+
+}
